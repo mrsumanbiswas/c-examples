@@ -1,3 +1,6 @@
+# Example 2
+
+```c
 #include <stdio.h>
 
 int main()
@@ -8,3 +11,7 @@ int main()
         printf("False\n");
     return 0;
 }
+```
+
+> ### What condition will be fulfiled ?
+> ###  And why ?
