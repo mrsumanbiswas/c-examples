@@ -1,3 +1,6 @@
+# Example 5
+
+```c
 #include <stdio.h>
 
 int main()
@@ -9,3 +12,9 @@ int main()
     else
         printf("something else\n");
 }
+```
+
+
+> ### What condition will be fulfiled ?
+> ###  And why ?
+> ### And What will be the final answer ?
