@@ -52,4 +52,5 @@ Mkfile.old
 dkms.conf
 
 # IDE config
-.vscode/ 
+.vscode/
+.vscode/*
